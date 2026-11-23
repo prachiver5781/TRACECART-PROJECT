@@ -1,3 +1,4 @@
+git status
 # TraceCart — Prachi's Authentication & Database Module
 
 This folder contains **only Prachi's assigned module** from TraceCart.
